@@ -1,0 +1,9 @@
+{
+  "source": "user-provided PDF in Downloads",
+  "book": "Principles of Economics: Microeconomics, 8th edition",
+  "author": "N. Gregory Mankiw",
+  "chapters": 22,
+  "main_text_pages": 486,
+  "generated": "2026-06-25",
+  "method": "Structured conversion from PDF table of contents, sampled pages, and synthesized Mankiw microeconomics frameworks; no long source passages copied."
+}

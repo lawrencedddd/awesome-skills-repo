@@ -1,0 +1,157 @@
+# Glossary
+
+- **Arrow impossibility theorem** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **Coase theorem** - with clear property rights and zero transaction costs, private bargaining can solve externalities efficiently.
+- **Condorcet paradox** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **Giffen good** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **Laffer curve** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **Nash equilibrium** - a state where no player wants to change strategy given the others strategies.
+- **PPF** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **ability-to-pay principle** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **absolute advantage** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **accounting profit** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **adverse selection** - hidden characteristics cause worse types to be more likely to trade.
+- **advertising** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **agent** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **assumptions** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **average revenue** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **average tax rate** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **average total cost** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **barriers to entry** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **behavioral economics** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **benefits principle** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **binding control** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **brands** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **budget constraint** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **capital** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **cartel** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **club goods** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **collusion** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **common resources** - resources that are nonexcludable but rival.
+- **comparative advantage** - the ability to produce at lower opportunity cost.
+- **compensating differential** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **competitive market** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **complements** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **consumer surplus** - willingness to pay minus price paid.
+- **corrective tax** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **cost** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **cross-price elasticity** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **deadweight loss** - lost total surplus from mutually beneficial trades that no longer occur.
+- **derived demand** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **discrimination** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **dominant strategy** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **economic profit** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **economies of scale** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **efficiency** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **efficiency wages** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **elasticity** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **equality** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **equilibrium** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **excess capacity** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **excludability** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **exit** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **explicit cost** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **exports** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **externality** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **factors of production** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **free rider** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **gains from trade** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **horizontal equity** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **human capital** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **implicit cost** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **import quota** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **imports** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **in-kind transfers** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **incentives** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **income effect** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **income elasticity** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **indifference curve** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **inferior goods** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **inflation** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **internalizing an externality** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **law of demand** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **liberalism** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **libertarianism** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **life cycle** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **lump-sum tax** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **macroeconomics** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **marginal changes** - small adjustments around an existing plan.
+- **marginal cost** - the increase in total cost from producing one more unit.
+- **marginal product** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **marginal product of labor** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **marginal rate of substitution** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **marginal revenue** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **marginal tax rate** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **market** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **market failure** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **markets** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **markup** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **median voter theorem** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **microeconomics** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **midpoint method** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **models** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **monopolistic competition** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **monopoly** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **moral hazard** - hidden action after protection changes behavior.
+- **natural monopoly** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **negative income tax** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **normal goods** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **normative statements** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **oligopoly** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **opportunity cost** - the value of the best forgone alternative.
+- **perfect complements** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **perfect substitutes** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **permanent income** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **political economy** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **positive statements** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **poverty rate** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **price ceiling** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **price discrimination** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **price elasticity of demand** - percentage change in quantity demanded divided by percentage change in price.
+- **price elasticity of supply** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **price floor** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **principal** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **prisoners dilemma** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **private goods** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **producer surplus** - price received minus cost.
+- **product differentiation** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **production function** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **productivity** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **profit** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **progressive tax** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **public goods** - goods that are nonexcludable and nonrival.
+- **quantity demanded** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **quantity supplied** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **rational people** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **regressive tax** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **rivalry** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **screening** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **shortage** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **shutdown** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **signaling** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **social cost** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **social value** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **specialization** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **substitutes** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **substitution effect** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **sunk cost** - a cost already incurred and unrecoverable.
+- **superstars** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **surplus** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **tariff** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **tax incidence** - the actual distribution of a tax burden across market participants.
+- **tax revenue** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **total cost** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **total revenue** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **total surplus** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **trade** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **trade agreement** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **trade-offs** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **tragedy of the commons** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **transaction costs** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **unions** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **utilitarianism** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **value of marginal product** - marginal product multiplied by output price.
+- **vertical equity** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **welfare** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **willingness to pay** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
+- **world price** - a key term for explaining choices, prices, incentives, equilibrium, or welfare in this chapter.
